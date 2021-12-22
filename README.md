@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yousef-B
+- 👋 Hi, I’m @yousef-B.
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning arabic.
 - 💞️ I’m looking to collaborate on gaming and coding.
